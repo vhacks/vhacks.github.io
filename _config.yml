@@ -1,0 +1,15 @@
+#
+#  vhacks.net configuration
+#
+
+
+# Site settings
+title: vmware hacks
+email: beta@vhacks.net
+description: > # this means to ignore newlines until "baseurl:"
+    Just an other vmware site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://vhacks.net"
+
+# Build settings
+markdown: kramdown
