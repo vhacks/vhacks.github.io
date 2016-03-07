@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Hello World
 categories: articles
 modified: 2015-12-13
